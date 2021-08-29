@@ -45,7 +45,7 @@ const ToolBar: React.FC<{ showToolBar: boolean }> = ({ showToolBar }) => {
           <img
             width="32px"
             height="32px"
-            src="/img/avatar.png"
+            src={`${process.env.PUBLIC_URL}/img/avatar.png`}
             alt="Brandon Garcia Avatar"
             className="w-8 h-8 rounded-full"
           />
@@ -59,7 +59,7 @@ const ToolBar: React.FC<{ showToolBar: boolean }> = ({ showToolBar }) => {
               <img
                 width="24px"
                 height="24px"
-                src="/svg/github.svg"
+                src={`${process.env.PUBLIC_URL}/svg/github.svg`}
                 alt="Github logo"
                 className="w-6 h-6 object-contain"
               />
@@ -72,21 +72,21 @@ const ToolBar: React.FC<{ showToolBar: boolean }> = ({ showToolBar }) => {
             <img
               width="24px"
               height="24px"
-              src="/img/react.png"
+              src={`${process.env.PUBLIC_URL}/img/react.png`}
               alt="react logo"
               className="w-6 h-6 object-contain"
             />
             <img
               width="24px"
               height="24px"
-              src="/img/typescript.png"
+              src={`${process.env.PUBLIC_URL}/img/typescript.png`}
               alt="typescript logo"
               className="w-6 h-6 object-contain"
             />
             <img
               width="24px"
               height="24px"
-              src="/svg/tailwindcss.svg"
+              src={`${process.env.PUBLIC_URL}/svg/tailwindcss.svg`}
               alt="tailwindcss logo"
               className="w-6 h-6 object-contain"
             />
