@@ -6,11 +6,11 @@
     A code to image converter where you can convert your codes to beautiful images which you can share online
     <br />
     <br />
-    <a href="https://codetoimg.com/">Visit Now</a>
+    <a href="https://brandon-gs.com/code-to-image">Visit Now</a>
     ·
-    <a href="https://github.com/rohid-hub/Code-To-Image-Converter/issues">Report Bug</a>
+    <a href="https://github.com/brandon-gs/code-to-image/issues">Report Bug</a>
     ·
-    <a href="https://github.com/rohid-hub/Code-To-Image-Converter/issues">Request Feature</a>
+    <a href="https://github.com/brandon-gs/code-to-image/issues">Request Feature</a>
   </p>
 </p>
 
