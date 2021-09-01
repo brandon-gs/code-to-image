@@ -6,7 +6,7 @@
     A code to image converter where you can convert your codes to beautiful images which you can share online
     <br />
     <br />
-    <a href="https://brandon-gs.com/code-to-image">Visit Now</a>
+    <a href="https://brandon-gs.github.io/code-to-image/">Visit Now</a>
     ·
     <a href="https://github.com/brandon-gs/code-to-image/issues">Report Bug</a>
     ·
